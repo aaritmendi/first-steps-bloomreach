@@ -1,0 +1,95 @@
+/content/documents/gogreen/samples:
+  .meta:order-before: about
+  jcr:primaryType: hippostd:folder
+  jcr:mixinTypes: ['hippotranslation:translated', 'mix:versionable']
+  jcr:uuid: d9529168-d6ca-4f63-8bdf-4fab269bcee8
+  hippostd:foldertype: [new-translated-folder, new-document]
+  hippotranslation:id: f10db727-daf0-4517-bbc6-97f70d0b2c4f
+  hippotranslation:locale: en
+  /maquina-escribir:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['hippo:named', 'mix:referenceable']
+    jcr:uuid: 74d3bc8b-775a-4259-8651-7ef5130f7cc6
+    hippo:name: maquina escribir
+    /maquina-escribir:
+      jcr:primaryType: gogreen:imageset
+      jcr:mixinTypes: ['mix:versionable']
+      jcr:uuid: 1417c16f-c87c-40c2-ac39-b58167a32a5b
+      hippo:availability: []
+      hippogallery:description: imagen de máquina de escribir
+      /hippogallery:thumbnail:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 60
+        hippogallery:width: 45
+        jcr:data:
+          type: binary
+          resource: /content/documents/gogreen/samples/maquina-escribir/maquina-escribir/thumbnail/thumbnail.jpg
+        jcr:lastModified: 2022-06-08T10:51:26.989+02:00
+        jcr:mimeType: image/jpeg
+      /hippogallery:original:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 1280
+        hippogallery:width: 963
+        jcr:data:
+          type: binary
+          resource: /content/documents/gogreen/samples/maquina-escribir/maquina-escribir/original/original.jpg
+        jcr:lastModified: 2022-06-08T10:51:26.929+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:small:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 224
+        hippogallery:width: 168
+        jcr:data:
+          type: binary
+          resource: /content/documents/gogreen/samples/maquina-escribir/maquina-escribir/small/small.jpg
+        jcr:encoding: UTF-8
+        jcr:lastModified: 2022-06-08T10:51:27.089+02:00
+        jcr:mimeType: image/jpeg
+  /neon:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['mix:referenceable']
+    jcr:uuid: 0b5b2ac0-a8dd-45e4-be6e-b19860312492
+    /neon:
+      jcr:primaryType: gogreen:imageset
+      jcr:mixinTypes: ['mix:versionable']
+      jcr:uuid: f8e2a172-a2d9-4744-82f4-3534b4ef5bf0
+      hippo:availability: []
+      hippogallery:description: ''
+      /hippogallery:thumbnail:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 60
+        hippogallery:width: 40
+        jcr:data:
+          type: binary
+          resource: /content/documents/gogreen/samples/neon/neon/thumbnail/thumbnail.jpg
+        jcr:lastModified: 2022-06-08T10:53:31.985+02:00
+        jcr:mimeType: image/jpeg
+      /hippogallery:original:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 1280
+        hippogallery:width: 855
+        jcr:data:
+          type: binary
+          resource: /content/documents/gogreen/samples/neon/neon/original/original.jpg
+        jcr:lastModified: 2022-06-08T10:53:31.927+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:small:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 224
+        hippogallery:width: 149
+        jcr:data:
+          type: binary
+          resource: /content/documents/gogreen/samples/neon/neon/small/small.jpg
+        jcr:encoding: UTF-8
+        jcr:lastModified: 2022-06-08T10:53:32.096+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:largue:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 0
+        hippogallery:width: 0
+        jcr:data:
+          type: binary
+          resource: /content/documents/gogreen/samples/neon/neon/largue/largue.jpg
+        jcr:encoding: UTF-8
+        jcr:lastModified: 2022-06-08T10:53:32.061+02:00
+        jcr:mimeType: image/jpeg

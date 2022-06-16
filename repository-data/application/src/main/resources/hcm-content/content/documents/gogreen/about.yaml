@@ -1,0 +1,100 @@
+/content/documents/gogreen/about:
+  jcr:primaryType: hippostd:folder
+  jcr:mixinTypes: ['hippo:named', 'hippotranslation:translated', 'mix:versionable']
+  jcr:uuid: 0e60de10-cd5a-4273-aee8-10fbb8fb120b
+  hippo:name: About
+  hippostd:foldertype: [new-translated-folder, new-document]
+  hippotranslation:id: 0c852bb8-15d0-4604-bd14-0be5c06ac913
+  hippotranslation:locale: en
+  /about:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['hippo:named', 'hippo:versionInfo', 'mix:referenceable']
+    jcr:uuid: 4a094ea5-673b-4ad0-8125-7d6bdcbe7309
+    hippo:name: About
+    hippo:versionHistory: f511fac8-5d73-4204-ac72-297a13d3a07e
+    /about[1]:
+      jcr:primaryType: gogreen:contentdocument
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: 4e5d0c3f-a3ce-44ec-849f-a2e9ca8aeef7
+      gogreen:introduction: This is the about page of GoGreen
+      gogreen:publicationdate: 0001-01-01T13:00:00+01:00
+      gogreen:title: About GoGreen
+      hippo:availability: []
+      hippo:related___pathreference: []
+      hippostd:retainable: false
+      hippostd:state: draft
+      hippostd:transferable: false
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2022-06-14T13:13:36.077+02:00
+      hippostdpubwf:lastModificationDate: 2022-06-15T13:35:41.688+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippotranslation:id: f72e32b0-e84e-4cad-bdf4-8da8167cfd4a
+      hippotranslation:locale: en
+      /gogreen:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: <p><strong>Lorem Ipsum</strong>&nbsp;is simply dummy text
+          of the printing and typesetting industry. Lorem Ipsum has been the industry's
+          standard dummy text ever since the 1500s, when an unknown printer took a
+          galley of type and scrambled it to make a type specimen book. It has survived
+          not only five centuries, but also the leap into electronic typesetting,
+          remaining essentially unchanged. It was popularised in the 1960s with the
+          release of Letraset sheets containing Lorem Ipsum passages, and more recently
+          with desktop publishing software like Aldus PageMaker including versions
+          of Lorem Ipsum.</p>
+    /about[2]:
+      jcr:primaryType: gogreen:contentdocument
+      jcr:mixinTypes: ['mix:referenceable', 'mix:versionable']
+      jcr:uuid: 4c5409e6-8e75-4f2d-857c-e2c12edf902f
+      gogreen:introduction: This is the about page of GoGreen
+      gogreen:publicationdate: 0001-01-01T13:00:00+01:00
+      gogreen:title: About GoGreen
+      hippo:availability: [preview]
+      hippo:related___pathreference: []
+      hippostd:retainable: false
+      hippostd:state: unpublished
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2022-06-14T13:13:36.077+02:00
+      hippostdpubwf:lastModificationDate: 2022-06-14T13:16:53.678+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippotranslation:id: f72e32b0-e84e-4cad-bdf4-8da8167cfd4a
+      hippotranslation:locale: en
+      /gogreen:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: <p><strong>Lorem Ipsum</strong>&nbsp;is simply dummy text
+          of the printing and typesetting industry. Lorem Ipsum has been the industry's
+          standard dummy text ever since the 1500s, when an unknown printer took a
+          galley of type and scrambled it to make a type specimen book. It has survived
+          not only five centuries, but also the leap into electronic typesetting,
+          remaining essentially unchanged. It was popularised in the 1960s with the
+          release of Letraset sheets containing Lorem Ipsum passages, and more recently
+          with desktop publishing software like Aldus PageMaker including versions
+          of Lorem Ipsum.</p>
+    /about[3]:
+      jcr:primaryType: gogreen:contentdocument
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: bbf4ea0f-03f3-47c1-af35-5005f98db977
+      gogreen:introduction: This is the about page of GoGreen
+      gogreen:publicationdate: 0001-01-01T13:00:00+01:00
+      gogreen:title: About GoGreen
+      hippo:availability: [live]
+      hippo:related___pathreference: []
+      hippostd:retainable: false
+      hippostd:state: published
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2022-06-14T13:13:36.077+02:00
+      hippostdpubwf:lastModificationDate: 2022-06-14T13:16:53.678+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippostdpubwf:publicationDate: 2022-06-15T13:35:41.295+02:00
+      hippotranslation:id: f72e32b0-e84e-4cad-bdf4-8da8167cfd4a
+      hippotranslation:locale: en
+      /gogreen:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: <p><strong>Lorem Ipsum</strong>&nbsp;is simply dummy text
+          of the printing and typesetting industry. Lorem Ipsum has been the industry's
+          standard dummy text ever since the 1500s, when an unknown printer took a
+          galley of type and scrambled it to make a type specimen book. It has survived
+          not only five centuries, but also the leap into electronic typesetting,
+          remaining essentially unchanged. It was popularised in the 1960s with the
+          release of Letraset sheets containing Lorem Ipsum passages, and more recently
+          with desktop publishing software like Aldus PageMaker including versions
+          of Lorem Ipsum.</p>

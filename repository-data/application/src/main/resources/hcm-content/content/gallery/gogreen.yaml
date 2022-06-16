@@ -1,0 +1,7 @@
+/content/gallery/gogreen:
+  jcr:primaryType: hippogallery:stdImageGallery
+  jcr:mixinTypes: ['hippo:named', 'mix:referenceable']
+  jcr:uuid: 5a97b5c9-93ea-46a0-85a0-8cdceba96b7f
+  hippo:name: GoGreen
+  hippostd:foldertype: [new-gogreen-imageset-folder]
+  hippostd:gallerytype: ['gogreen:imageset']

@@ -1,0 +1,338 @@
+/content/documents/gogreen/banners:
+  .meta:order-before: about
+  jcr:primaryType: hippostd:folder
+  jcr:mixinTypes: ['hippotranslation:translated', 'mix:referenceable']
+  jcr:uuid: c51d3285-ead4-4829-81cb-4521b0bb01c1
+  hippostd:foldertype: [new-banner-document, new-banner-folder]
+  hippotranslation:id: a5fe0089-ade5-463d-82b8-abfeff415b3d
+  hippotranslation:locale: en
+  /banner1:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['hippo:versionInfo', 'mix:referenceable']
+    jcr:uuid: 895fb1b6-410d-4972-9894-6b6a06d2b361
+    hippo:versionHistory: 915b754e-bd03-49ad-84ba-0e9efd14c273
+    /banner1[1]:
+      jcr:primaryType: gogreen:bannerdocument
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: 2968db36-a272-445c-9ab4-40b647cca1c2
+      gogreen:title: Sagrada Familia
+      hippo:availability: [live]
+      hippostd:holder: admin
+      hippostd:retainable: false
+      hippostd:state: published
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2014-03-20T17:00:00+01:00
+      hippostdpubwf:lastModificationDate: 2022-06-15T13:52:52.366+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippostdpubwf:publicationDate: 2022-06-15T13:53:41.351+02:00
+      hippotranslation:id: 15266631-203b-484d-959d-829c0a4eb260
+      hippotranslation:locale: en
+      /gogreen:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: <p>El Templo Expiatorio de la Sagrada Familia, conocido
+          simplemente como la Sagrada Familia, es una basílica católica de Barcelona,
+          diseñada por el arquitecto Antoni Gaudí. Iniciada en 1882, todavía está
+          en construcción. Es la obra maestra de Gaudí, y el máximo exponente de la
+          arquitectura modernista catalana.&nbsp;</p>
+      /gogreen:image:
+        jcr:primaryType: hippogallerypicker:imagelink
+        hippo:docbase: 2d6f5292-0aa8-4a03-bdfe-80cd0144b98e
+        hippo:facets: []
+        hippo:modes: []
+        hippo:values: []
+      /gogreen:link:
+        jcr:primaryType: hippo:mirror
+        hippo:docbase: cafebabe-cafe-babe-cafe-babecafebabe
+    /banner1[2]:
+      jcr:primaryType: gogreen:bannerdocument
+      jcr:mixinTypes: ['mix:referenceable', 'mix:versionable']
+      jcr:uuid: c589d10d-084e-4126-83bd-6c33f6becf6a
+      gogreen:title: Sagrada Familia
+      hippo:availability: [preview]
+      hippostd:retainable: false
+      hippostd:state: unpublished
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2014-03-20T17:00:00+01:00
+      hippostdpubwf:lastModificationDate: 2022-06-15T13:52:52.366+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippotranslation:id: 15266631-203b-484d-959d-829c0a4eb260
+      hippotranslation:locale: en
+      /gogreen:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: <p>El Templo Expiatorio de la Sagrada Familia, conocido
+          simplemente como la Sagrada Familia, es una basílica católica de Barcelona,
+          diseñada por el arquitecto Antoni Gaudí. Iniciada en 1882, todavía está
+          en construcción. Es la obra maestra de Gaudí, y el máximo exponente de la
+          arquitectura modernista catalana.&nbsp;</p>
+      /gogreen:image:
+        jcr:primaryType: hippogallerypicker:imagelink
+        hippo:docbase: 2d6f5292-0aa8-4a03-bdfe-80cd0144b98e
+        hippo:facets: []
+        hippo:modes: []
+        hippo:values: []
+      /gogreen:link:
+        jcr:primaryType: hippo:mirror
+        hippo:docbase: cafebabe-cafe-babe-cafe-babecafebabe
+    /banner1[3]:
+      jcr:primaryType: gogreen:bannerdocument
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: 63a8e9b0-bc65-46f4-880a-ce21ca031602
+      gogreen:title: Sagrada Familia
+      hippo:availability: []
+      hippostd:retainable: false
+      hippostd:state: draft
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2014-03-20T17:00:00+01:00
+      hippostdpubwf:lastModificationDate: 2022-06-15T13:52:52.454+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippotranslation:id: 15266631-203b-484d-959d-829c0a4eb260
+      hippotranslation:locale: en
+      /gogreen:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: <p>El Templo Expiatorio de la Sagrada Familia, conocido
+          simplemente como la Sagrada Familia, es una basílica católica de Barcelona,
+          diseñada por el arquitecto Antoni Gaudí. Iniciada en 1882, todavía está
+          en construcción. Es la obra maestra de Gaudí, y el máximo exponente de la
+          arquitectura modernista catalana.&nbsp;</p>
+      /gogreen:image:
+        jcr:primaryType: hippogallerypicker:imagelink
+        hippo:docbase: 2d6f5292-0aa8-4a03-bdfe-80cd0144b98e
+        hippo:facets: []
+        hippo:modes: []
+        hippo:values: []
+      /gogreen:link:
+        jcr:primaryType: hippo:mirror
+        hippo:docbase: cafebabe-cafe-babe-cafe-babecafebabe
+  /banner2:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['hippo:named', 'mix:referenceable']
+    jcr:uuid: 9a3f1f5c-5302-43c4-9bec-584e810ffa2f
+    hippo:name: banner2
+    /banner2:
+      jcr:primaryType: gogreen:bannerdocument
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: cae3bf7f-94d3-43cb-8e43-8bf844ce151c
+      gogreen:title: Sample banner 2
+      hippo:availability: [live, preview]
+      hippostd:holder: admin
+      hippostd:state: published
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2014-03-20T17:00:00+01:00
+      hippostdpubwf:lastModificationDate: 2014-03-20T17:04:00+01:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippostdpubwf:publicationDate: 2014-03-20T17:04:00+01:00
+      hippotranslation:id: 506c8255-1319-4ac9-9576-44ade8774699
+      hippotranslation:locale: en
+      /gogreen:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+          sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+          ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+          ex ea commodo consequat.</p>
+      /gogreen:image:
+        jcr:primaryType: hippogallerypicker:imagelink
+        hippo:docbase: dc6c2247-d3f4-4be0-976e-749b69927eee
+        hippo:facets: []
+        hippo:modes: []
+        hippo:values: []
+      /gogreen:link:
+        jcr:primaryType: hippo:mirror
+        hippo:docbase: cafebabe-cafe-babe-cafe-babecafebabe
+  /10-sencillos-pasos-para-tu-green-office:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['hippo:named', 'hippo:versionInfo', 'mix:referenceable']
+    jcr:uuid: 610c411b-e0d8-4095-bbca-b31807ac01b5
+    hippo:name: 10 Sencillos pasos para tu Green Office
+    hippo:versionHistory: 8e3b7913-f29a-41e4-8cf1-978d6ef8a78e
+    /10-sencillos-pasos-para-tu-green-office[1]:
+      jcr:primaryType: gogreen:bannerdocument
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: 3fbbd008-4553-40d6-88b0-568253d37058
+      gogreen:title: 10 Sencillos pasos para tu Green Office
+      hippo:availability: []
+      hippo:related___pathreference: []
+      hippostd:retainable: false
+      hippostd:state: draft
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2022-06-08T15:26:48.517+02:00
+      hippostdpubwf:lastModificationDate: 2022-06-13T15:47:51.432+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippotranslation:id: f6b7d527-570a-48b1-9edf-d96eb9699cf9
+      hippotranslation:locale: en
+      /gogreen:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: |-
+          <h4>Lorem fistrum</h4>
+
+          <p>Ese pedazo de ese hombree diodeno tiene musho peligro. A peich de la pradera pecador te va a hasé pupitaa ese que llega mamaar jarl me cago en tus muelas benemeritaar diodenoo te voy a borrar el cerito.</p>
+      /gogreen:image:
+        jcr:primaryType: hippogallerypicker:imagelink
+        hippo:docbase: 47668419-2817-4e80-bfc0-04fb55a2f518
+        hippo:facets: []
+        hippo:modes: []
+        hippo:values: []
+      /gogreen:link:
+        jcr:primaryType: hippo:mirror
+        hippo:docbase: c580ac64-3874-4717-a6d9-e5ad72080abe
+    /10-sencillos-pasos-para-tu-green-office[2]:
+      jcr:primaryType: gogreen:bannerdocument
+      jcr:mixinTypes: ['mix:referenceable', 'mix:versionable']
+      jcr:uuid: c9681bcc-47e6-449c-8392-668594aac11e
+      gogreen:title: 10 Sencillos pasos para tu Green Office
+      hippo:availability: [preview]
+      hippo:related___pathreference: []
+      hippostd:retainable: false
+      hippostd:state: unpublished
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2022-06-08T15:26:48.517+02:00
+      hippostdpubwf:lastModificationDate: 2022-06-13T15:47:50.707+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippotranslation:id: f6b7d527-570a-48b1-9edf-d96eb9699cf9
+      hippotranslation:locale: en
+      /gogreen:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: |-
+          <h4>Lorem fistrum</h4>
+
+          <p>Ese pedazo de ese hombree diodeno tiene musho peligro. A peich de la pradera pecador te va a hasé pupitaa ese que llega mamaar jarl me cago en tus muelas benemeritaar diodenoo te voy a borrar el cerito.</p>
+      /gogreen:image:
+        jcr:primaryType: hippogallerypicker:imagelink
+        hippo:docbase: 47668419-2817-4e80-bfc0-04fb55a2f518
+        hippo:facets: []
+        hippo:modes: []
+        hippo:values: []
+      /gogreen:link:
+        jcr:primaryType: hippo:mirror
+        hippo:docbase: c580ac64-3874-4717-a6d9-e5ad72080abe
+    /10-sencillos-pasos-para-tu-green-office[3]:
+      jcr:primaryType: gogreen:bannerdocument
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: c7b19320-c1f1-4064-b5b6-b5492d929704
+      gogreen:title: 10 Sencillos pasos para tu Green Office
+      hippo:availability: [live]
+      hippo:related___pathreference: []
+      hippostd:retainable: false
+      hippostd:state: published
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2022-06-08T15:26:48.517+02:00
+      hippostdpubwf:lastModificationDate: 2022-06-13T15:47:50.707+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippostdpubwf:publicationDate: 2022-06-13T15:47:55.686+02:00
+      hippotranslation:id: f6b7d527-570a-48b1-9edf-d96eb9699cf9
+      hippotranslation:locale: en
+      /gogreen:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: |-
+          <h4>Lorem fistrum</h4>
+
+          <p>Ese pedazo de ese hombree diodeno tiene musho peligro. A peich de la pradera pecador te va a hasé pupitaa ese que llega mamaar jarl me cago en tus muelas benemeritaar diodenoo te voy a borrar el cerito.</p>
+      /gogreen:image:
+        jcr:primaryType: hippogallerypicker:imagelink
+        hippo:docbase: 47668419-2817-4e80-bfc0-04fb55a2f518
+        hippo:facets: []
+        hippo:modes: []
+        hippo:values: []
+      /gogreen:link:
+        jcr:primaryType: hippo:mirror
+        hippo:docbase: c580ac64-3874-4717-a6d9-e5ad72080abe
+  /maquina-escribir:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['hippo:named', 'hippo:versionInfo', 'mix:referenceable']
+    jcr:uuid: 04520d02-0199-4388-a5e0-75adf4128906
+    hippo:name: maquina escribir
+    hippo:versionHistory: c2f7e8e2-77fe-4c9a-aa5f-03ea75536454
+    /maquina-escribir[1]:
+      jcr:primaryType: gogreen:bannerdocument
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: cd93e37b-52dd-44ae-b0b7-3d4983f5d901
+      gogreen:title: La máquina de escribir
+      hippo:availability: []
+      hippo:related___pathreference: []
+      hippostd:retainable: false
+      hippostd:state: draft
+      hippostd:transferable: false
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2022-06-13T15:48:43.569+02:00
+      hippostdpubwf:lastModificationDate: 2022-06-13T15:52:51.526+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippotranslation:id: c9767fa0-395b-43d2-969c-b64a4c30862d
+      hippotranslation:locale: en
+      /gogreen:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: <p>La&nbsp;<strong>máquina de escribir</strong>&nbsp;es
+          un dispositivo&nbsp;mecánico,&nbsp;electromecánico&nbsp;o&nbsp;electrónico,
+          con un conjunto de teclas (llamadas tipos) que, al ser presionadas, imprimen
+          caracteres en un&nbsp;documento, normalmente&nbsp;papel. La persona que
+          opera una máquina de escribir recibe el nombre de&nbsp;mecanógrafo.</p>
+      /gogreen:image:
+        jcr:primaryType: hippogallerypicker:imagelink
+        hippo:docbase: 31c2af10-c679-4d84-a672-b5da82f92ae9
+        hippo:facets: []
+        hippo:modes: []
+        hippo:values: []
+      /gogreen:link:
+        jcr:primaryType: hippo:mirror
+        hippo:docbase: cafebabe-cafe-babe-cafe-babecafebabe
+    /maquina-escribir[2]:
+      jcr:primaryType: gogreen:bannerdocument
+      jcr:mixinTypes: ['mix:referenceable', 'mix:versionable']
+      jcr:uuid: 92904452-cde9-4353-bc23-b002fbbdb4d5
+      gogreen:title: La máquina de escribir
+      hippo:availability: [preview]
+      hippo:related___pathreference: []
+      hippostd:retainable: false
+      hippostd:state: unpublished
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2022-06-13T15:48:43.569+02:00
+      hippostdpubwf:lastModificationDate: 2022-06-13T15:50:16.734+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippotranslation:id: c9767fa0-395b-43d2-969c-b64a4c30862d
+      hippotranslation:locale: en
+      /gogreen:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: <p>La&nbsp;<strong>máquina de escribir</strong>&nbsp;es
+          un dispositivo&nbsp;mecánico,&nbsp;electromecánico&nbsp;o&nbsp;electrónico,
+          con un conjunto de teclas (llamadas tipos) que, al ser presionadas, imprimen
+          caracteres en un&nbsp;documento, normalmente&nbsp;papel. La persona que
+          opera una máquina de escribir recibe el nombre de&nbsp;mecanógrafo.</p>
+      /gogreen:image:
+        jcr:primaryType: hippogallerypicker:imagelink
+        hippo:docbase: 31c2af10-c679-4d84-a672-b5da82f92ae9
+        hippo:facets: []
+        hippo:modes: []
+        hippo:values: []
+      /gogreen:link:
+        jcr:primaryType: hippo:mirror
+        hippo:docbase: cafebabe-cafe-babe-cafe-babecafebabe
+    /maquina-escribir[3]:
+      jcr:primaryType: gogreen:bannerdocument
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: c19741a9-f33d-48c0-916a-c90230f53c1b
+      gogreen:title: La máquina de escribir
+      hippo:availability: [live]
+      hippo:related___pathreference: []
+      hippostd:retainable: false
+      hippostd:state: published
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2022-06-13T15:48:43.569+02:00
+      hippostdpubwf:lastModificationDate: 2022-06-13T15:50:16.734+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippostdpubwf:publicationDate: 2022-06-13T15:50:19.015+02:00
+      hippotranslation:id: c9767fa0-395b-43d2-969c-b64a4c30862d
+      hippotranslation:locale: en
+      /gogreen:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: <p>La&nbsp;<strong>máquina de escribir</strong>&nbsp;es
+          un dispositivo&nbsp;mecánico,&nbsp;electromecánico&nbsp;o&nbsp;electrónico,
+          con un conjunto de teclas (llamadas tipos) que, al ser presionadas, imprimen
+          caracteres en un&nbsp;documento, normalmente&nbsp;papel. La persona que
+          opera una máquina de escribir recibe el nombre de&nbsp;mecanógrafo.</p>
+      /gogreen:image:
+        jcr:primaryType: hippogallerypicker:imagelink
+        hippo:docbase: 31c2af10-c679-4d84-a672-b5da82f92ae9
+        hippo:facets: []
+        hippo:modes: []
+        hippo:values: []
+      /gogreen:link:
+        jcr:primaryType: hippo:mirror
+        hippo:docbase: cafebabe-cafe-babe-cafe-babecafebabe
