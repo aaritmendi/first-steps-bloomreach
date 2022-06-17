@@ -1,9 +1,6 @@
 <#include "../include/imports.ftl">
-<div class="body-wrapper">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-9 col-sm-9">
-        <div class="news-overview">
+
+<div class="news-overview">
     <#if pageable?? && pageable.items?has_content>
       <#list pageable.items as item>
         <@hst.link var="link" hippobean=item />
@@ -17,7 +14,7 @@
               <@hst.link var="img" hippobean=item.image.largue />
             <div class="blog-post-featured-img">
               <a href="${link}"><img 
-                        src="${src}" 
+                        src="${img}" 
                         alt="{item.title?html}" /></a>
             </div>
           </#if>
@@ -51,8 +48,4 @@
           </div>
         </div>
       </#if>
-          </div>
-        </div>
-      </div>
-  </div>
 </div>

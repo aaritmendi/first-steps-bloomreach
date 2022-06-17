@@ -1,0 +1,541 @@
+/content/documents/gogreen/products:
+  jcr:primaryType: hippostd:folder
+  jcr:mixinTypes: ['hippotranslation:translated', 'mix:versionable']
+  jcr:uuid: d32d847b-af9f-4ba8-ad3f-ee42567b0038
+  hippostd:foldertype: [new-product-folder, new-product-document]
+  hippotranslation:id: b0ba08f1-0b12-4606-b4bd-45f15853d352
+  hippotranslation:locale: en
+  /solar-centurian:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['hippo:named', 'hippo:versionInfo', 'mix:referenceable']
+    jcr:uuid: ce800823-17d0-487c-80d1-86f59c9da1b9
+    hippo:name: Solar Centurian
+    hippo:versionHistory: 2fba23ca-29c3-44ca-a7a1-d93b59fc2f71
+    /solar-centurian[1]:
+      jcr:primaryType: gogreen:product
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: 168084fc-0126-4ce2-a711-1d8d06be8aac
+      gogreen:introduction: A big tent for your family
+      gogreen:price: 14.22
+      gogreen:string: Solar Centurian
+      hippo:availability: []
+      hippostd:retainable: false
+      hippostd:state: draft
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2022-06-17T12:58:42.290+02:00
+      hippostdpubwf:lastModificationDate: 2022-06-17T12:58:42.290+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippotranslation:id: f821b042-d5ae-4715-8959-4f87860d77f7
+      hippotranslation:locale: en
+      /gogreen:description:
+        jcr:primaryType: hippostd:html
+        hippostd:content: <p>This is a big tent!&nbsp;</p>
+      /gogreen:images:
+        jcr:primaryType: hippogallerypicker:imagelink
+        hippo:docbase: 5375d6cf-1e42-45ba-b042-91dc80cdab67
+        hippo:facets: []
+        hippo:modes: []
+        hippo:values: []
+    /solar-centurian[2]:
+      jcr:primaryType: gogreen:product
+      jcr:mixinTypes: ['mix:referenceable', 'mix:versionable']
+      jcr:uuid: 0c592789-b05b-4eae-87b9-5975ee4a86b3
+      gogreen:introduction: A big tent for your family
+      gogreen:price: 14.22
+      gogreen:string: Solar Centurian
+      hippo:availability: [preview]
+      hippostd:retainable: false
+      hippostd:state: unpublished
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2022-06-17T12:58:42.290+02:00
+      hippostdpubwf:lastModificationDate: 2022-06-17T12:59:54.095+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippotranslation:id: f821b042-d5ae-4715-8959-4f87860d77f7
+      hippotranslation:locale: en
+      /gogreen:description:
+        jcr:primaryType: hippostd:html
+        hippostd:content: <p>This is a big tent!&nbsp;</p>
+      /gogreen:images:
+        jcr:primaryType: hippogallerypicker:imagelink
+        hippo:docbase: 5375d6cf-1e42-45ba-b042-91dc80cdab67
+        hippo:facets: []
+        hippo:modes: []
+        hippo:values: []
+    /solar-centurian[3]:
+      jcr:primaryType: gogreen:product
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: 3b554309-53c8-4399-85b4-f556fab3dec2
+      gogreen:introduction: A big tent for your family
+      gogreen:price: 14.22
+      gogreen:string: Solar Centurian
+      hippo:availability: [live]
+      hippostd:retainable: false
+      hippostd:state: published
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2022-06-17T12:58:42.290+02:00
+      hippostdpubwf:lastModificationDate: 2022-06-17T12:59:54.095+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippostdpubwf:publicationDate: 2022-06-17T13:00:00.020+02:00
+      hippotranslation:id: f821b042-d5ae-4715-8959-4f87860d77f7
+      hippotranslation:locale: en
+      /gogreen:description:
+        jcr:primaryType: hippostd:html
+        hippostd:content: <p>This is a big tent!&nbsp;</p>
+      /gogreen:images:
+        jcr:primaryType: hippogallerypicker:imagelink
+        hippo:docbase: 5375d6cf-1e42-45ba-b042-91dc80cdab67
+        hippo:facets: []
+        hippo:modes: []
+        hippo:values: []
+  /lifeproof:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['hippo:named', 'hippo:versionInfo', 'mix:referenceable']
+    jcr:uuid: 67e629bd-c7b1-4bb9-8d8b-3cbcdfe0f5c2
+    hippo:name: Lifeproof
+    hippo:versionHistory: f0711de1-7fd7-415e-8aba-32edd3c03cde
+    /lifeproof[1]:
+      jcr:primaryType: gogreen:product
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: 77cfd9f6-b85d-4179-a6ec-160673e4803d
+      gogreen:introduction: This is a case with which you can submerge your Ipad
+      gogreen:price: 7.99
+      gogreen:string: LifeProof IPAD AIR case
+      hippo:availability: []
+      hippostd:retainable: false
+      hippostd:state: draft
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2022-06-17T13:46:21.683+02:00
+      hippostdpubwf:lastModificationDate: 2022-06-17T13:46:21.683+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippotranslation:id: ef7663cd-24bf-4b95-862c-8866230266e7
+      hippotranslation:locale: en
+      /gogreen:description:
+        jcr:primaryType: hippostd:html
+        hippostd:content: <p>Enjoy the summer, the sun, the beach or the pool with
+          your <strong>iPad</strong></p>
+      /gogreen:images:
+        jcr:primaryType: hippogallerypicker:imagelink
+        hippo:docbase: f6fabd73-d527-473b-bd78-9f4a84734407
+        hippo:facets: []
+        hippo:modes: []
+        hippo:values: []
+    /lifeproof[2]:
+      jcr:primaryType: gogreen:product
+      jcr:mixinTypes: ['mix:referenceable', 'mix:versionable']
+      jcr:uuid: d1d1f1c7-0dd2-4a4a-b7cb-f92710f54824
+      gogreen:introduction: This is a case with which you can submerge your Ipad
+      gogreen:price: 7.99
+      gogreen:string: LifeProof IPAD AIR case
+      hippo:availability: [preview]
+      hippostd:retainable: false
+      hippostd:state: unpublished
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2022-06-17T13:46:21.683+02:00
+      hippostdpubwf:lastModificationDate: 2022-06-17T13:51:47.345+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippotranslation:id: ef7663cd-24bf-4b95-862c-8866230266e7
+      hippotranslation:locale: en
+      /gogreen:description:
+        jcr:primaryType: hippostd:html
+        hippostd:content: <p>Enjoy the summer, the sun, the beach or the pool with
+          your <strong>iPad</strong></p>
+      /gogreen:images:
+        jcr:primaryType: hippogallerypicker:imagelink
+        hippo:docbase: f6fabd73-d527-473b-bd78-9f4a84734407
+        hippo:facets: []
+        hippo:modes: []
+        hippo:values: []
+    /lifeproof[3]:
+      jcr:primaryType: gogreen:product
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: 1399f159-18cc-4d0f-82fd-35b847b8aa13
+      gogreen:introduction: This is a case with which you can submerge your Ipad
+      gogreen:price: 7.99
+      gogreen:string: LifeProof IPAD AIR case
+      hippo:availability: [live]
+      hippostd:retainable: false
+      hippostd:state: published
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2022-06-17T13:46:21.683+02:00
+      hippostdpubwf:lastModificationDate: 2022-06-17T13:51:47.345+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippostdpubwf:publicationDate: 2022-06-17T13:51:56.536+02:00
+      hippotranslation:id: ef7663cd-24bf-4b95-862c-8866230266e7
+      hippotranslation:locale: en
+      /gogreen:description:
+        jcr:primaryType: hippostd:html
+        hippostd:content: <p>Enjoy the summer, the sun, the beach or the pool with
+          your <strong>iPad</strong></p>
+      /gogreen:images:
+        jcr:primaryType: hippogallerypicker:imagelink
+        hippo:docbase: f6fabd73-d527-473b-bd78-9f4a84734407
+        hippo:facets: []
+        hippo:modes: []
+        hippo:values: []
+  /laptop-sleeves:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['hippo:named', 'hippo:versionInfo', 'mix:referenceable']
+    jcr:uuid: 8562badf-c53c-4b01-8ab8-83ca708eca16
+    hippo:name: laptop sleeves
+    hippo:versionHistory: 7217a2ce-9933-4cda-8579-ca1f8d9b0ce6
+    /laptop-sleeves[1]:
+      jcr:primaryType: gogreen:product
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: c3aecb24-9dbe-43ac-b21b-0db8acdf6ed2
+      gogreen:introduction: Love the squishy feel of neoprene, but hate toxins like
+        VOCs?
+      gogreen:price: 5.99
+      gogreen:string: Laptop Sleeves
+      hippo:availability: []
+      hippostd:retainable: false
+      hippostd:state: draft
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2022-06-17T14:04:56.756+02:00
+      hippostdpubwf:lastModificationDate: 2022-06-17T14:04:56.756+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippotranslation:id: 8cfb9515-0596-4aec-8b3f-ee5273325314
+      hippotranslation:locale: en
+      /gogreen:description:
+        jcr:primaryType: hippostd:html
+        hippostd:content: <p>Protect your laptop with our Laptop Sleeves, made with
+          neoprene in Taiwan.</p>
+      /gogreen:images:
+        jcr:primaryType: hippogallerypicker:imagelink
+        hippo:docbase: 19c249d8-d964-4305-add3-15353acca5d9
+        hippo:facets: []
+        hippo:modes: []
+        hippo:values: []
+    /laptop-sleeves[2]:
+      jcr:primaryType: gogreen:product
+      jcr:mixinTypes: ['mix:referenceable', 'mix:versionable']
+      jcr:uuid: 2a79eafd-b0ee-462d-b2ad-3a6c5692c046
+      gogreen:introduction: Love the squishy feel of neoprene, but hate toxins like
+        VOCs?
+      gogreen:price: 5.99
+      gogreen:string: Laptop Sleeves
+      hippo:availability: [preview]
+      hippostd:retainable: false
+      hippostd:state: unpublished
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2022-06-17T14:04:56.756+02:00
+      hippostdpubwf:lastModificationDate: 2022-06-17T14:06:49.092+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippotranslation:id: 8cfb9515-0596-4aec-8b3f-ee5273325314
+      hippotranslation:locale: en
+      /gogreen:description:
+        jcr:primaryType: hippostd:html
+        hippostd:content: <p>Protect your laptop with our Laptop Sleeves, made with
+          neoprene in Taiwan.</p>
+      /gogreen:images:
+        jcr:primaryType: hippogallerypicker:imagelink
+        hippo:docbase: 19c249d8-d964-4305-add3-15353acca5d9
+        hippo:facets: []
+        hippo:modes: []
+        hippo:values: []
+    /laptop-sleeves[3]:
+      jcr:primaryType: gogreen:product
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: 6f655546-c5ac-4093-a7af-fb2219dcf969
+      gogreen:introduction: Love the squishy feel of neoprene, but hate toxins like
+        VOCs?
+      gogreen:price: 5.99
+      gogreen:string: Laptop Sleeves
+      hippo:availability: [live]
+      hippostd:retainable: false
+      hippostd:state: published
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2022-06-17T14:04:56.756+02:00
+      hippostdpubwf:lastModificationDate: 2022-06-17T14:06:49.092+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippostdpubwf:publicationDate: 2022-06-17T14:15:15.732+02:00
+      hippotranslation:id: 8cfb9515-0596-4aec-8b3f-ee5273325314
+      hippotranslation:locale: en
+      /gogreen:description:
+        jcr:primaryType: hippostd:html
+        hippostd:content: <p>Protect your laptop with our Laptop Sleeves, made with
+          neoprene in Taiwan.</p>
+      /gogreen:images:
+        jcr:primaryType: hippogallerypicker:imagelink
+        hippo:docbase: 19c249d8-d964-4305-add3-15353acca5d9
+        hippo:facets: []
+        hippo:modes: []
+        hippo:values: []
+  /alu-bottle:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['hippo:named', 'hippo:versionInfo', 'mix:referenceable']
+    jcr:uuid: 8e35e4f2-eead-4f29-9ac3-5bc47234dd71
+    hippo:name: Alu Bottle
+    hippo:versionHistory: ff5f03e4-aa0c-4d07-b94e-a25abba6f92e
+    /alu-bottle[1]:
+      jcr:primaryType: gogreen:product
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: 11400afd-418b-4b2a-a613-900966576f2c
+      gogreen:introduction: Aluminium Bottle for cold drinks
+      gogreen:price: 4.99
+      gogreen:string: Aluminium Bottle
+      hippo:availability: []
+      hippostd:retainable: false
+      hippostd:state: draft
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2022-06-17T14:07:03.189+02:00
+      hippostdpubwf:lastModificationDate: 2022-06-17T14:07:03.189+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippotranslation:id: b7618382-1324-4631-b305-daba42ed0b37
+      hippotranslation:locale: en
+      /gogreen:description:
+        jcr:primaryType: hippostd:html
+        hippostd:content: |-
+          <p>Tired of the water getting hot during your work day?&nbsp;</p>
+
+          <p>Do you want to drink fresh water always?&nbsp;</p>
+
+          <p>&nbsp;</p>
+
+          <p>Buy our certified Aluminum bottle, capable of keeping the cold inside for up to 12 hours.</p>
+      /gogreen:images:
+        jcr:primaryType: hippogallerypicker:imagelink
+        hippo:docbase: 1b2fde7d-95b4-4dc9-9b17-b9d03b3c7d5f
+        hippo:facets: []
+        hippo:modes: []
+        hippo:values: []
+    /alu-bottle[2]:
+      jcr:primaryType: gogreen:product
+      jcr:mixinTypes: ['mix:referenceable', 'mix:versionable']
+      jcr:uuid: 8375cdef-8b81-483c-ae3d-ced9fe22a77a
+      gogreen:introduction: Aluminium Bottle for cold drinks
+      gogreen:price: 4.99
+      gogreen:string: Aluminium Bottle
+      hippo:availability: [preview]
+      hippostd:retainable: false
+      hippostd:state: unpublished
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2022-06-17T14:07:03.189+02:00
+      hippostdpubwf:lastModificationDate: 2022-06-17T14:09:53.445+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippotranslation:id: b7618382-1324-4631-b305-daba42ed0b37
+      hippotranslation:locale: en
+      /gogreen:description:
+        jcr:primaryType: hippostd:html
+        hippostd:content: |-
+          <p>Tired of the water getting hot during your work day?&nbsp;</p>
+
+          <p>Do you want to drink fresh water always?&nbsp;</p>
+
+          <p>&nbsp;</p>
+
+          <p>Buy our certified Aluminum bottle, capable of keeping the cold inside for up to 12 hours.</p>
+      /gogreen:images:
+        jcr:primaryType: hippogallerypicker:imagelink
+        hippo:docbase: 1b2fde7d-95b4-4dc9-9b17-b9d03b3c7d5f
+        hippo:facets: []
+        hippo:modes: []
+        hippo:values: []
+    /alu-bottle[3]:
+      jcr:primaryType: gogreen:product
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: cb92b085-aaf4-4b9e-828e-9f3cd06e79de
+      gogreen:introduction: Aluminium Bottle for cold drinks
+      gogreen:price: 4.99
+      gogreen:string: Aluminium Bottle
+      hippo:availability: [live]
+      hippostd:retainable: false
+      hippostd:state: published
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2022-06-17T14:07:03.189+02:00
+      hippostdpubwf:lastModificationDate: 2022-06-17T14:09:53.445+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippostdpubwf:publicationDate: 2022-06-17T14:15:15.793+02:00
+      hippotranslation:id: b7618382-1324-4631-b305-daba42ed0b37
+      hippotranslation:locale: en
+      /gogreen:description:
+        jcr:primaryType: hippostd:html
+        hippostd:content: |-
+          <p>Tired of the water getting hot during your work day?&nbsp;</p>
+
+          <p>Do you want to drink fresh water always?&nbsp;</p>
+
+          <p>&nbsp;</p>
+
+          <p>Buy our certified Aluminum bottle, capable of keeping the cold inside for up to 12 hours.</p>
+      /gogreen:images:
+        jcr:primaryType: hippogallerypicker:imagelink
+        hippo:docbase: 1b2fde7d-95b4-4dc9-9b17-b9d03b3c7d5f
+        hippo:facets: []
+        hippo:modes: []
+        hippo:values: []
+  /3-ring-binder:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['hippo:named', 'hippo:versionInfo', 'mix:referenceable']
+    jcr:uuid: 40cf9c24-91d9-40b8-b47c-3eaf6b361e3c
+    hippo:name: 3 ring binder
+    hippo:versionHistory: 274413a2-93b5-49c1-a5bf-666bf042af1c
+    /3-ring-binder[1]:
+      jcr:primaryType: gogreen:product
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: 9b037f95-ebb9-4e90-9ce8-2ecf61d26e27
+      gogreen:introduction: It is made with recycled materials
+      gogreen:price: 2.89
+      gogreen:string: 3 ring binder
+      hippo:availability: []
+      hippostd:retainable: false
+      hippostd:state: draft
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2022-06-17T14:10:15.039+02:00
+      hippostdpubwf:lastModificationDate: 2022-06-17T14:10:15.039+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippotranslation:id: 07b7e8e5-354d-4924-8eee-48fb9a0a3afd
+      hippotranslation:locale: en
+      /gogreen:description:
+        jcr:primaryType: hippostd:html
+        hippostd:content: <p>3 ring binder, to store all your notes in a greener way,
+          since it is made with recycled materials</p>
+      /gogreen:images:
+        jcr:primaryType: hippogallerypicker:imagelink
+        hippo:docbase: 041d2992-7fe8-4a89-a66a-ed04a385de8c
+        hippo:facets: []
+        hippo:modes: []
+        hippo:values: []
+    /3-ring-binder[2]:
+      jcr:primaryType: gogreen:product
+      jcr:mixinTypes: ['mix:referenceable', 'mix:versionable']
+      jcr:uuid: 7b2ae09f-a0e5-409a-8493-f7845895a342
+      gogreen:introduction: It is made with recycled materials
+      gogreen:price: 2.89
+      gogreen:string: 3 ring binder
+      hippo:availability: [preview]
+      hippostd:retainable: false
+      hippostd:state: unpublished
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2022-06-17T14:10:15.039+02:00
+      hippostdpubwf:lastModificationDate: 2022-06-17T14:15:34.202+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippotranslation:id: 07b7e8e5-354d-4924-8eee-48fb9a0a3afd
+      hippotranslation:locale: en
+      /gogreen:description:
+        jcr:primaryType: hippostd:html
+        hippostd:content: <p>3 ring binder, to store all your notes in a greener way,
+          since it is made with recycled materials</p>
+      /gogreen:images:
+        jcr:primaryType: hippogallerypicker:imagelink
+        hippo:docbase: 041d2992-7fe8-4a89-a66a-ed04a385de8c
+        hippo:facets: []
+        hippo:modes: []
+        hippo:values: []
+    /3-ring-binder[3]:
+      jcr:primaryType: gogreen:product
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: b0f19fa3-94fa-484f-8675-1c0d3eb9646f
+      gogreen:introduction: It is made with recycled materials
+      gogreen:price: 2.89
+      gogreen:string: 3 ring binder
+      hippo:availability: [live]
+      hippostd:retainable: false
+      hippostd:state: published
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2022-06-17T14:10:15.039+02:00
+      hippostdpubwf:lastModificationDate: 2022-06-17T14:15:34.202+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippostdpubwf:publicationDate: 2022-06-17T14:15:38.707+02:00
+      hippotranslation:id: 07b7e8e5-354d-4924-8eee-48fb9a0a3afd
+      hippotranslation:locale: en
+      /gogreen:description:
+        jcr:primaryType: hippostd:html
+        hippostd:content: <p>3 ring binder, to store all your notes in a greener way,
+          since it is made with recycled materials</p>
+      /gogreen:images:
+        jcr:primaryType: hippogallerypicker:imagelink
+        hippo:docbase: 041d2992-7fe8-4a89-a66a-ed04a385de8c
+        hippo:facets: []
+        hippo:modes: []
+        hippo:values: []
+  /portable-solar-panel:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['hippo:named', 'hippo:versionInfo', 'mix:referenceable']
+    jcr:uuid: a53f1ce0-53e8-40a6-84f5-a2bbc4cb2f78
+    hippo:name: Portable solar panel
+    hippo:versionHistory: 6a3cda3c-fd9e-463c-b290-95902def9694
+    /portable-solar-panel[1]:
+      jcr:primaryType: gogreen:product
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: d7cabf3f-22e4-4dbf-a25c-7316ef22df44
+      gogreen:introduction: Portable solar panel to charge your devices
+      gogreen:price: 19.99
+      gogreen:string: Portable solar panel
+      hippo:availability: []
+      hippostd:retainable: false
+      hippostd:state: draft
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2022-06-17T14:12:41.742+02:00
+      hippostdpubwf:lastModificationDate: 2022-06-17T14:12:41.742+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippotranslation:id: 44204329-282a-4dda-b556-f113e9766195
+      hippotranslation:locale: en
+      /gogreen:description:
+        jcr:primaryType: hippostd:html
+        hippostd:content: |-
+          <p>Tired of running out of battery on your Sunday walk?</p>
+
+          <p>Buy our portable solar panel and charge your electronic devices</p>
+      /gogreen:images:
+        jcr:primaryType: hippogallerypicker:imagelink
+        hippo:docbase: fe5d135f-b9c3-47bf-8c1d-7ab141d9b663
+        hippo:facets: []
+        hippo:modes: []
+        hippo:values: []
+    /portable-solar-panel[2]:
+      jcr:primaryType: gogreen:product
+      jcr:mixinTypes: ['mix:referenceable', 'mix:versionable']
+      jcr:uuid: 448a90f3-a506-4f70-93de-592feb79d78b
+      gogreen:introduction: Portable solar panel to charge your devices
+      gogreen:price: 19.99
+      gogreen:string: Portable solar panel
+      hippo:availability: [preview]
+      hippostd:retainable: false
+      hippostd:state: unpublished
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2022-06-17T14:12:41.742+02:00
+      hippostdpubwf:lastModificationDate: 2022-06-17T14:15:06.439+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippotranslation:id: 44204329-282a-4dda-b556-f113e9766195
+      hippotranslation:locale: en
+      /gogreen:description:
+        jcr:primaryType: hippostd:html
+        hippostd:content: |-
+          <p>Tired of running out of battery on your Sunday walk?</p>
+
+          <p>Buy our portable solar panel and charge your electronic devices</p>
+      /gogreen:images:
+        jcr:primaryType: hippogallerypicker:imagelink
+        hippo:docbase: fe5d135f-b9c3-47bf-8c1d-7ab141d9b663
+        hippo:facets: []
+        hippo:modes: []
+        hippo:values: []
+    /portable-solar-panel[3]:
+      jcr:primaryType: gogreen:product
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: 8faa1c36-f39c-471e-b221-0bbd004905ed
+      gogreen:introduction: Portable solar panel to charge your devices
+      gogreen:price: 19.99
+      gogreen:string: Portable solar panel
+      hippo:availability: [live]
+      hippostd:retainable: false
+      hippostd:state: published
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2022-06-17T14:12:41.742+02:00
+      hippostdpubwf:lastModificationDate: 2022-06-17T14:15:06.439+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippostdpubwf:publicationDate: 2022-06-17T14:15:15.861+02:00
+      hippotranslation:id: 44204329-282a-4dda-b556-f113e9766195
+      hippotranslation:locale: en
+      /gogreen:description:
+        jcr:primaryType: hippostd:html
+        hippostd:content: |-
+          <p>Tired of running out of battery on your Sunday walk?</p>
+
+          <p>Buy our portable solar panel and charge your electronic devices</p>
+      /gogreen:images:
+        jcr:primaryType: hippogallerypicker:imagelink
+        hippo:docbase: fe5d135f-b9c3-47bf-8c1d-7ab141d9b663
+        hippo:facets: []
+        hippo:modes: []
+        hippo:values: []

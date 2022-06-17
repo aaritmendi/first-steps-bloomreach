@@ -1,0 +1,1060 @@
+/content/gallery/gogreen/products:
+  jcr:primaryType: hippogallery:stdImageGallery
+  jcr:mixinTypes: ['mix:versionable']
+  jcr:uuid: b36d463e-d671-443d-a19a-a9977172108d
+  hippostd:foldertype: [new-gogreen-imageset-folder]
+  hippostd:gallerytype: ['gogreen:imageset']
+  /3in_binder.jpg:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['mix:referenceable']
+    jcr:uuid: 041d2992-7fe8-4a89-a66a-ed04a385de8c
+    /3in_binder.jpg:
+      jcr:primaryType: gogreen:imageset
+      hippo:availability: [live, preview]
+      hippogallery:filename: 3in_binder.jpg
+      /hippogallery:thumbnail:
+        jcr:primaryType: hippogallery:image
+        hippo:filename: 3in_binder.jpg
+        hippogallery:height: 38
+        hippogallery:width: 60
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/3in_binder.jpg/3in_binder.jpg/thumbnail/thumbnail.jpg
+        jcr:lastModified: 2022-06-17T12:57:15.376+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:small:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 224
+        hippogallery:width: 346
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/3in_binder.jpg/3in_binder.jpg/small/small.jpg
+        jcr:lastModified: 2022-06-17T12:57:15.376+02:00
+        jcr:mimeType: image/jpeg
+      /hippogallery:original:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 233
+        hippogallery:width: 360
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/3in_binder.jpg/3in_binder.jpg/original/original.jpg
+        jcr:lastModified: 2022-06-17T12:57:15.376+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:larguesquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 233
+        hippogallery:width: 360
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/3in_binder.jpg/3in_binder.jpg/larguesquare/larguesquare.jpg
+        jcr:lastModified: 2022-06-17T12:57:15.376+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:banner:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 233
+        hippogallery:width: 360
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/3in_binder.jpg/3in_binder.jpg/banner/banner.jpg
+        jcr:lastModified: 2022-06-17T12:57:15.376+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:largue:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 233
+        hippogallery:width: 360
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/3in_binder.jpg/3in_binder.jpg/largue/largue.jpg
+        jcr:lastModified: 2022-06-17T12:57:15.376+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:mediumsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 202
+        hippogallery:width: 313
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/3in_binder.jpg/3in_binder.jpg/mediumsquare/mediumsquare.jpg
+        jcr:lastModified: 2022-06-17T12:57:15.376+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:smallsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 150
+        hippogallery:width: 233
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/3in_binder.jpg/3in_binder.jpg/smallsquare/smallsquare.jpg
+        jcr:lastModified: 2022-06-17T12:57:15.376+02:00
+        jcr:mimeType: image/jpeg
+  /300px-cti_cooker_photo.jpg:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['mix:referenceable']
+    jcr:uuid: 69cffc45-9297-40fa-8425-5abd73605b04
+    /300px-cti_cooker_photo.jpg:
+      jcr:primaryType: gogreen:imageset
+      hippo:availability: [live, preview]
+      hippogallery:filename: 300px-cti_cooker_photo.jpg
+      /hippogallery:thumbnail:
+        jcr:primaryType: hippogallery:image
+        hippo:filename: 300px-cti_cooker_photo.jpg
+        hippogallery:height: 60
+        hippogallery:width: 36
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/300px-cti_cooker_photo.jpg/300px-cti_cooker_photo.jpg/thumbnail/thumbnail.jpg
+        jcr:lastModified: 2022-06-17T12:57:15.935+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:small:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 224
+        hippogallery:width: 136
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/300px-cti_cooker_photo.jpg/300px-cti_cooker_photo.jpg/small/small.jpg
+        jcr:lastModified: 2022-06-17T12:57:15.935+02:00
+        jcr:mimeType: image/jpeg
+      /hippogallery:original:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 300
+        hippogallery:width: 183
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/300px-cti_cooker_photo.jpg/300px-cti_cooker_photo.jpg/original/original.jpg
+        jcr:lastModified: 2022-06-17T12:57:15.935+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:larguesquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 300
+        hippogallery:width: 183
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/300px-cti_cooker_photo.jpg/300px-cti_cooker_photo.jpg/larguesquare/larguesquare.jpg
+        jcr:lastModified: 2022-06-17T12:57:15.935+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:banner:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 250
+        hippogallery:width: 152
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/300px-cti_cooker_photo.jpg/300px-cti_cooker_photo.jpg/banner/banner.jpg
+        jcr:lastModified: 2022-06-17T12:57:15.935+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:largue:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 300
+        hippogallery:width: 183
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/300px-cti_cooker_photo.jpg/300px-cti_cooker_photo.jpg/largue/largue.jpg
+        jcr:lastModified: 2022-06-17T12:57:15.935+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:mediumsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 300
+        hippogallery:width: 183
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/300px-cti_cooker_photo.jpg/300px-cti_cooker_photo.jpg/mediumsquare/mediumsquare.jpg
+        jcr:lastModified: 2022-06-17T12:57:15.935+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:smallsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 232
+        hippogallery:width: 142
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/300px-cti_cooker_photo.jpg/300px-cti_cooker_photo.jpg/smallsquare/smallsquare.jpg
+        jcr:lastModified: 2022-06-17T12:57:15.935+02:00
+        jcr:mimeType: image/jpeg
+  /aluminum-bottle.jpg:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['hippo:named', 'mix:referenceable']
+    jcr:uuid: 1b2fde7d-95b4-4dc9-9b17-b9d03b3c7d5f
+    hippo:name: Aluminum-bottle.jpg
+    /aluminum-bottle.jpg:
+      jcr:primaryType: gogreen:imageset
+      hippo:availability: [live, preview]
+      hippogallery:filename: Aluminum-bottle.jpg
+      /hippogallery:thumbnail:
+        jcr:primaryType: hippogallery:image
+        hippo:filename: Aluminum-bottle.jpg
+        hippogallery:height: 60
+        hippogallery:width: 60
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/aluminum-bottle.jpg/aluminum-bottle.jpg/thumbnail/thumbnail.jpg
+        jcr:lastModified: 2022-06-17T12:57:16.148+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:small:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 120
+        hippogallery:width: 120
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/aluminum-bottle.jpg/aluminum-bottle.jpg/small/small.jpg
+        jcr:lastModified: 2022-06-17T12:57:16.148+02:00
+        jcr:mimeType: image/jpeg
+      /hippogallery:original:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 120
+        hippogallery:width: 120
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/aluminum-bottle.jpg/aluminum-bottle.jpg/original/original.jpg
+        jcr:lastModified: 2022-06-17T12:57:16.148+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:larguesquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 120
+        hippogallery:width: 120
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/aluminum-bottle.jpg/aluminum-bottle.jpg/larguesquare/larguesquare.jpg
+        jcr:lastModified: 2022-06-17T12:57:16.148+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:banner:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 120
+        hippogallery:width: 120
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/aluminum-bottle.jpg/aluminum-bottle.jpg/banner/banner.jpg
+        jcr:lastModified: 2022-06-17T12:57:16.148+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:largue:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 120
+        hippogallery:width: 120
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/aluminum-bottle.jpg/aluminum-bottle.jpg/largue/largue.jpg
+        jcr:lastModified: 2022-06-17T12:57:16.148+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:mediumsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 120
+        hippogallery:width: 120
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/aluminum-bottle.jpg/aluminum-bottle.jpg/mediumsquare/mediumsquare.jpg
+        jcr:lastModified: 2022-06-17T12:57:16.148+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:smallsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 120
+        hippogallery:width: 120
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/aluminum-bottle.jpg/aluminum-bottle.jpg/smallsquare/smallsquare.jpg
+        jcr:lastModified: 2022-06-17T12:57:16.148+02:00
+        jcr:mimeType: image/jpeg
+  /banana-business-card.jpg:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['mix:referenceable']
+    jcr:uuid: e1f7a80c-e427-40d1-a651-21c85b32883d
+    /banana-business-card.jpg:
+      jcr:primaryType: gogreen:imageset
+      hippo:availability: [live, preview]
+      hippogallery:filename: banana-business-card.jpg
+      /hippogallery:thumbnail:
+        jcr:primaryType: hippogallery:image
+        hippo:filename: banana-business-card.jpg
+        hippogallery:height: 43
+        hippogallery:width: 60
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/banana-business-card.jpg/banana-business-card.jpg/thumbnail/thumbnail.jpg
+        jcr:lastModified: 2022-06-17T12:57:16.250+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:small:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 224
+        hippogallery:width: 307
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/banana-business-card.jpg/banana-business-card.jpg/small/small.jpg
+        jcr:lastModified: 2022-06-17T12:57:16.250+02:00
+        jcr:mimeType: image/jpeg
+      /hippogallery:original:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 291
+        hippogallery:width: 400
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/banana-business-card.jpg/banana-business-card.jpg/original/original.jpg
+        jcr:lastModified: 2022-06-17T12:57:16.250+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:larguesquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 291
+        hippogallery:width: 400
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/banana-business-card.jpg/banana-business-card.jpg/larguesquare/larguesquare.jpg
+        jcr:lastModified: 2022-06-17T12:57:16.250+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:banner:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 249
+        hippogallery:width: 343
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/banana-business-card.jpg/banana-business-card.jpg/banner/banner.jpg
+        jcr:lastModified: 2022-06-17T12:57:16.250+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:largue:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 291
+        hippogallery:width: 400
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/banana-business-card.jpg/banana-business-card.jpg/largue/largue.jpg
+        jcr:lastModified: 2022-06-17T12:57:16.250+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:mediumsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 227
+        hippogallery:width: 313
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/banana-business-card.jpg/banana-business-card.jpg/mediumsquare/mediumsquare.jpg
+        jcr:lastModified: 2022-06-17T12:57:16.250+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:smallsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 169
+        hippogallery:width: 233
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/banana-business-card.jpg/banana-business-card.jpg/smallsquare/smallsquare.jpg
+        jcr:lastModified: 2022-06-17T12:57:16.250+02:00
+        jcr:mimeType: image/jpeg
+  /bth_producemeshgreen.jpg:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['mix:referenceable']
+    jcr:uuid: af473209-e0a6-4403-bfa5-c4f966b2e1a9
+    /bth_producemeshgreen.jpg:
+      jcr:primaryType: gogreen:imageset
+      hippo:availability: [live, preview]
+      hippogallery:filename: bth_producemeshgreen.jpg
+      /hippogallery:thumbnail:
+        jcr:primaryType: hippogallery:image
+        hippo:filename: bth_producemeshgreen.jpg
+        hippogallery:height: 60
+        hippogallery:width: 60
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/bth_producemeshgreen.jpg/bth_producemeshgreen.jpg/thumbnail/thumbnail.jpg
+        jcr:lastModified: 2022-06-17T12:57:16.477+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:small:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 224
+        hippogallery:width: 224
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/bth_producemeshgreen.jpg/bth_producemeshgreen.jpg/small/small.jpg
+        jcr:lastModified: 2022-06-17T12:57:16.477+02:00
+        jcr:mimeType: image/jpeg
+      /hippogallery:original:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 300
+        hippogallery:width: 300
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/bth_producemeshgreen.jpg/bth_producemeshgreen.jpg/original/original.jpg
+        jcr:lastModified: 2022-06-17T12:57:16.477+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:larguesquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 300
+        hippogallery:width: 300
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/bth_producemeshgreen.jpg/bth_producemeshgreen.jpg/larguesquare/larguesquare.jpg
+        jcr:lastModified: 2022-06-17T12:57:16.477+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:banner:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 250
+        hippogallery:width: 250
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/bth_producemeshgreen.jpg/bth_producemeshgreen.jpg/banner/banner.jpg
+        jcr:lastModified: 2022-06-17T12:57:16.477+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:largue:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 300
+        hippogallery:width: 300
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/bth_producemeshgreen.jpg/bth_producemeshgreen.jpg/largue/largue.jpg
+        jcr:lastModified: 2022-06-17T12:57:16.477+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:mediumsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 300
+        hippogallery:width: 300
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/bth_producemeshgreen.jpg/bth_producemeshgreen.jpg/mediumsquare/mediumsquare.jpg
+        jcr:lastModified: 2022-06-17T12:57:16.477+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:smallsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 232
+        hippogallery:width: 232
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/bth_producemeshgreen.jpg/bth_producemeshgreen.jpg/smallsquare/smallsquare.jpg
+        jcr:lastModified: 2022-06-17T12:57:16.477+02:00
+        jcr:mimeType: image/jpeg
+  /family-tent.jpg:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['mix:referenceable']
+    jcr:uuid: 5375d6cf-1e42-45ba-b042-91dc80cdab67
+    /family-tent.jpg:
+      jcr:primaryType: gogreen:imageset
+      hippo:availability: [live, preview]
+      hippogallery:filename: family-tent.jpg
+      /hippogallery:thumbnail:
+        jcr:primaryType: hippogallery:image
+        hippo:filename: family-tent.jpg
+        hippogallery:height: 60
+        hippogallery:width: 60
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/family-tent.jpg/family-tent.jpg/thumbnail/thumbnail.jpg
+        jcr:lastModified: 2022-06-17T12:57:16.664+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:small:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 224
+        hippogallery:width: 224
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/family-tent.jpg/family-tent.jpg/small/small.jpg
+        jcr:lastModified: 2022-06-17T12:57:16.664+02:00
+        jcr:mimeType: image/jpeg
+      /hippogallery:original:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 300
+        hippogallery:width: 300
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/family-tent.jpg/family-tent.jpg/original/original.jpg
+        jcr:lastModified: 2022-06-17T12:57:16.664+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:larguesquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 300
+        hippogallery:width: 300
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/family-tent.jpg/family-tent.jpg/larguesquare/larguesquare.jpg
+        jcr:lastModified: 2022-06-17T12:57:16.664+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:banner:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 250
+        hippogallery:width: 250
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/family-tent.jpg/family-tent.jpg/banner/banner.jpg
+        jcr:lastModified: 2022-06-17T12:57:16.664+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:largue:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 300
+        hippogallery:width: 300
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/family-tent.jpg/family-tent.jpg/largue/largue.jpg
+        jcr:lastModified: 2022-06-17T12:57:16.664+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:mediumsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 300
+        hippogallery:width: 300
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/family-tent.jpg/family-tent.jpg/mediumsquare/mediumsquare.jpg
+        jcr:lastModified: 2022-06-17T12:57:16.664+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:smallsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 232
+        hippogallery:width: 232
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/family-tent.jpg/family-tent.jpg/smallsquare/smallsquare.jpg
+        jcr:lastModified: 2022-06-17T12:57:16.664+02:00
+        jcr:mimeType: image/jpeg
+  /gs_withlaptop_detail.jpg:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['mix:referenceable']
+    jcr:uuid: 19c249d8-d964-4305-add3-15353acca5d9
+    /gs_withlaptop_detail.jpg:
+      jcr:primaryType: gogreen:imageset
+      hippo:availability: [live, preview]
+      hippogallery:filename: gs_withlaptop_detail.jpg
+      /hippogallery:thumbnail:
+        jcr:primaryType: hippogallery:image
+        hippo:filename: gs_withlaptop_detail.jpg
+        hippogallery:height: 60
+        hippogallery:width: 60
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/gs_withlaptop_detail.jpg/gs_withlaptop_detail.jpg/thumbnail/thumbnail.jpg
+        jcr:lastModified: 2022-06-17T12:57:16.850+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:small:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 224
+        hippogallery:width: 224
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/gs_withlaptop_detail.jpg/gs_withlaptop_detail.jpg/small/small.jpg
+        jcr:lastModified: 2022-06-17T12:57:16.850+02:00
+        jcr:mimeType: image/jpeg
+      /hippogallery:original:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 250
+        hippogallery:width: 250
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/gs_withlaptop_detail.jpg/gs_withlaptop_detail.jpg/original/original.jpg
+        jcr:lastModified: 2022-06-17T12:57:16.850+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:larguesquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 250
+        hippogallery:width: 250
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/gs_withlaptop_detail.jpg/gs_withlaptop_detail.jpg/larguesquare/larguesquare.jpg
+        jcr:lastModified: 2022-06-17T12:57:16.850+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:banner:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 250
+        hippogallery:width: 250
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/gs_withlaptop_detail.jpg/gs_withlaptop_detail.jpg/banner/banner.jpg
+        jcr:lastModified: 2022-06-17T12:57:16.850+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:largue:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 250
+        hippogallery:width: 250
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/gs_withlaptop_detail.jpg/gs_withlaptop_detail.jpg/largue/largue.jpg
+        jcr:lastModified: 2022-06-17T12:57:16.850+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:mediumsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 250
+        hippogallery:width: 250
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/gs_withlaptop_detail.jpg/gs_withlaptop_detail.jpg/mediumsquare/mediumsquare.jpg
+        jcr:lastModified: 2022-06-17T12:57:16.850+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:smallsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 233
+        hippogallery:width: 233
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/gs_withlaptop_detail.jpg/gs_withlaptop_detail.jpg/smallsquare/smallsquare.jpg
+        jcr:lastModified: 2022-06-17T12:57:16.850+02:00
+        jcr:mimeType: image/jpeg
+  /hemp-envelopes-ecopaper.jpg:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['mix:referenceable']
+    jcr:uuid: 33ce4043-a9ee-4c81-aaf1-7bd5e57f5119
+    /hemp-envelopes-ecopaper.jpg:
+      jcr:primaryType: gogreen:imageset
+      hippo:availability: [live, preview]
+      hippogallery:filename: hemp-envelopes-ecopaper.jpg
+      /hippogallery:thumbnail:
+        jcr:primaryType: hippogallery:image
+        hippo:filename: hemp-envelopes-ecopaper.jpg
+        hippogallery:height: 31
+        hippogallery:width: 60
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/hemp-envelopes-ecopaper.jpg/hemp-envelopes-ecopaper.jpg/thumbnail/thumbnail.jpg
+        jcr:lastModified: 2022-06-17T12:57:17.013+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:small:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 103
+        hippogallery:width: 196
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/hemp-envelopes-ecopaper.jpg/hemp-envelopes-ecopaper.jpg/small/small.jpg
+        jcr:lastModified: 2022-06-17T12:57:17.013+02:00
+        jcr:mimeType: image/jpeg
+      /hippogallery:original:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 103
+        hippogallery:width: 196
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/hemp-envelopes-ecopaper.jpg/hemp-envelopes-ecopaper.jpg/original/original.jpg
+        jcr:lastModified: 2022-06-17T12:57:17.013+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:larguesquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 103
+        hippogallery:width: 196
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/hemp-envelopes-ecopaper.jpg/hemp-envelopes-ecopaper.jpg/larguesquare/larguesquare.jpg
+        jcr:lastModified: 2022-06-17T12:57:17.013+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:banner:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 103
+        hippogallery:width: 196
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/hemp-envelopes-ecopaper.jpg/hemp-envelopes-ecopaper.jpg/banner/banner.jpg
+        jcr:lastModified: 2022-06-17T12:57:17.013+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:largue:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 103
+        hippogallery:width: 196
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/hemp-envelopes-ecopaper.jpg/hemp-envelopes-ecopaper.jpg/largue/largue.jpg
+        jcr:lastModified: 2022-06-17T12:57:17.013+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:mediumsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 103
+        hippogallery:width: 196
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/hemp-envelopes-ecopaper.jpg/hemp-envelopes-ecopaper.jpg/mediumsquare/mediumsquare.jpg
+        jcr:lastModified: 2022-06-17T12:57:17.013+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:smallsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 103
+        hippogallery:width: 196
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/hemp-envelopes-ecopaper.jpg/hemp-envelopes-ecopaper.jpg/smallsquare/smallsquare.jpg
+        jcr:lastModified: 2022-06-17T12:57:17.013+02:00
+        jcr:mimeType: image/jpeg
+  /lifeproof-ipad-case.jpg:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['mix:referenceable']
+    jcr:uuid: f6fabd73-d527-473b-bd78-9f4a84734407
+    /lifeproof-ipad-case.jpg:
+      jcr:primaryType: gogreen:imageset
+      hippo:availability: [live, preview]
+      hippogallery:filename: lifeproof-ipad-case.jpg
+      /hippogallery:thumbnail:
+        jcr:primaryType: hippogallery:image
+        hippo:filename: lifeproof-ipad-case.jpg
+        hippogallery:height: 60
+        hippogallery:width: 60
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/lifeproof-ipad-case.jpg/lifeproof-ipad-case.jpg/thumbnail/thumbnail.jpg
+        jcr:lastModified: 2022-06-17T12:57:17.136+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:small:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 224
+        hippogallery:width: 224
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/lifeproof-ipad-case.jpg/lifeproof-ipad-case.jpg/small/small.jpg
+        jcr:lastModified: 2022-06-17T12:57:17.136+02:00
+        jcr:mimeType: image/jpeg
+      /hippogallery:original:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 300
+        hippogallery:width: 300
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/lifeproof-ipad-case.jpg/lifeproof-ipad-case.jpg/original/original.jpg
+        jcr:lastModified: 2022-06-17T12:57:17.136+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:larguesquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 300
+        hippogallery:width: 300
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/lifeproof-ipad-case.jpg/lifeproof-ipad-case.jpg/larguesquare/larguesquare.jpg
+        jcr:lastModified: 2022-06-17T12:57:17.136+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:banner:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 250
+        hippogallery:width: 250
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/lifeproof-ipad-case.jpg/lifeproof-ipad-case.jpg/banner/banner.jpg
+        jcr:lastModified: 2022-06-17T12:57:17.136+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:largue:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 300
+        hippogallery:width: 300
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/lifeproof-ipad-case.jpg/lifeproof-ipad-case.jpg/largue/largue.jpg
+        jcr:lastModified: 2022-06-17T12:57:17.136+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:mediumsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 300
+        hippogallery:width: 300
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/lifeproof-ipad-case.jpg/lifeproof-ipad-case.jpg/mediumsquare/mediumsquare.jpg
+        jcr:lastModified: 2022-06-17T12:57:17.136+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:smallsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 232
+        hippogallery:width: 232
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/lifeproof-ipad-case.jpg/lifeproof-ipad-case.jpg/smallsquare/smallsquare.jpg
+        jcr:lastModified: 2022-06-17T12:57:17.136+02:00
+        jcr:mimeType: image/jpeg
+  /smcenturian_detail.jpg:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['mix:referenceable']
+    jcr:uuid: 34fed99b-f308-49eb-ba98-94cfa6e19014
+    /smcenturian_detail.jpg:
+      jcr:primaryType: gogreen:imageset
+      hippo:availability: [live, preview]
+      hippogallery:filename: smcenturian_detail.jpg
+      /hippogallery:thumbnail:
+        jcr:primaryType: hippogallery:image
+        hippo:filename: smcenturian_detail.jpg
+        hippogallery:height: 60
+        hippogallery:width: 60
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/smcenturian_detail.jpg/smcenturian_detail.jpg/thumbnail/thumbnail.jpg
+        jcr:lastModified: 2022-06-17T12:57:17.677+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:small:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 224
+        hippogallery:width: 224
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/smcenturian_detail.jpg/smcenturian_detail.jpg/small/small.jpg
+        jcr:lastModified: 2022-06-17T12:57:17.677+02:00
+        jcr:mimeType: image/jpeg
+      /hippogallery:original:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 280
+        hippogallery:width: 280
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/smcenturian_detail.jpg/smcenturian_detail.jpg/original/original.jpg
+        jcr:lastModified: 2022-06-17T12:57:17.677+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:larguesquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 280
+        hippogallery:width: 280
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/smcenturian_detail.jpg/smcenturian_detail.jpg/larguesquare/larguesquare.jpg
+        jcr:lastModified: 2022-06-17T12:57:17.677+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:banner:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 250
+        hippogallery:width: 250
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/smcenturian_detail.jpg/smcenturian_detail.jpg/banner/banner.jpg
+        jcr:lastModified: 2022-06-17T12:57:17.677+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:largue:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 280
+        hippogallery:width: 280
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/smcenturian_detail.jpg/smcenturian_detail.jpg/largue/largue.jpg
+        jcr:lastModified: 2022-06-17T12:57:17.677+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:mediumsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 280
+        hippogallery:width: 280
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/smcenturian_detail.jpg/smcenturian_detail.jpg/mediumsquare/mediumsquare.jpg
+        jcr:lastModified: 2022-06-17T12:57:17.677+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:smallsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 233
+        hippogallery:width: 233
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/smcenturian_detail.jpg/smcenturian_detail.jpg/smallsquare/smallsquare.jpg
+        jcr:lastModified: 2022-06-17T12:57:17.677+02:00
+        jcr:mimeType: image/jpeg
+  /smcleardynamoflashlight_detail.jpg:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['mix:referenceable']
+    jcr:uuid: fbc4bc0a-b162-4db1-8b14-e4de4bdeaa4d
+    /smcleardynamoflashlight_detail.jpg:
+      jcr:primaryType: gogreen:imageset
+      hippo:availability: [live, preview]
+      hippogallery:filename: smcleardynamoflashlight_detail.jpg
+      /hippogallery:thumbnail:
+        jcr:primaryType: hippogallery:image
+        hippo:filename: smcleardynamoflashlight_detail.jpg
+        hippogallery:height: 60
+        hippogallery:width: 60
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/smcleardynamoflashlight_detail.jpg/smcleardynamoflashlight_detail.jpg/thumbnail/thumbnail.jpg
+        jcr:lastModified: 2022-06-17T12:57:17.884+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:small:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 224
+        hippogallery:width: 224
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/smcleardynamoflashlight_detail.jpg/smcleardynamoflashlight_detail.jpg/small/small.jpg
+        jcr:lastModified: 2022-06-17T12:57:17.884+02:00
+        jcr:mimeType: image/jpeg
+      /hippogallery:original:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 300
+        hippogallery:width: 300
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/smcleardynamoflashlight_detail.jpg/smcleardynamoflashlight_detail.jpg/original/original.jpg
+        jcr:lastModified: 2022-06-17T12:57:17.884+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:larguesquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 300
+        hippogallery:width: 300
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/smcleardynamoflashlight_detail.jpg/smcleardynamoflashlight_detail.jpg/larguesquare/larguesquare.jpg
+        jcr:lastModified: 2022-06-17T12:57:17.884+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:banner:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 250
+        hippogallery:width: 250
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/smcleardynamoflashlight_detail.jpg/smcleardynamoflashlight_detail.jpg/banner/banner.jpg
+        jcr:lastModified: 2022-06-17T12:57:17.884+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:largue:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 300
+        hippogallery:width: 300
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/smcleardynamoflashlight_detail.jpg/smcleardynamoflashlight_detail.jpg/largue/largue.jpg
+        jcr:lastModified: 2022-06-17T12:57:17.884+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:mediumsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 300
+        hippogallery:width: 300
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/smcleardynamoflashlight_detail.jpg/smcleardynamoflashlight_detail.jpg/mediumsquare/mediumsquare.jpg
+        jcr:lastModified: 2022-06-17T12:57:17.884+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:smallsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 232
+        hippogallery:width: 232
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/smcleardynamoflashlight_detail.jpg/smcleardynamoflashlight_detail.jpg/smallsquare/smallsquare.jpg
+        jcr:lastModified: 2022-06-17T12:57:17.884+02:00
+        jcr:mimeType: image/jpeg
+  /solar-charging-kit.jpg:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['mix:referenceable']
+    jcr:uuid: fe5d135f-b9c3-47bf-8c1d-7ab141d9b663
+    /solar-charging-kit.jpg:
+      jcr:primaryType: gogreen:imageset
+      hippo:availability: [live, preview]
+      hippogallery:filename: solar-charging-kit.jpg
+      /hippogallery:thumbnail:
+        jcr:primaryType: hippogallery:image
+        hippo:filename: solar-charging-kit.jpg
+        hippogallery:height: 60
+        hippogallery:width: 60
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/solar-charging-kit.jpg/solar-charging-kit.jpg/thumbnail/thumbnail.jpg
+        jcr:lastModified: 2022-06-17T12:57:18.101+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:small:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 224
+        hippogallery:width: 224
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/solar-charging-kit.jpg/solar-charging-kit.jpg/small/small.jpg
+        jcr:lastModified: 2022-06-17T12:57:18.101+02:00
+        jcr:mimeType: image/jpeg
+      /hippogallery:original:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 300
+        hippogallery:width: 300
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/solar-charging-kit.jpg/solar-charging-kit.jpg/original/original.jpg
+        jcr:lastModified: 2022-06-17T12:57:18.101+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:larguesquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 300
+        hippogallery:width: 300
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/solar-charging-kit.jpg/solar-charging-kit.jpg/larguesquare/larguesquare.jpg
+        jcr:lastModified: 2022-06-17T12:57:18.101+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:banner:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 250
+        hippogallery:width: 250
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/solar-charging-kit.jpg/solar-charging-kit.jpg/banner/banner.jpg
+        jcr:lastModified: 2022-06-17T12:57:18.101+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:largue:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 300
+        hippogallery:width: 300
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/solar-charging-kit.jpg/solar-charging-kit.jpg/largue/largue.jpg
+        jcr:lastModified: 2022-06-17T12:57:18.101+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:mediumsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 300
+        hippogallery:width: 300
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/solar-charging-kit.jpg/solar-charging-kit.jpg/mediumsquare/mediumsquare.jpg
+        jcr:lastModified: 2022-06-17T12:57:18.101+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:smallsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 232
+        hippogallery:width: 232
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/solar-charging-kit.jpg/solar-charging-kit.jpg/smallsquare/smallsquare.jpg
+        jcr:lastModified: 2022-06-17T12:57:18.101+02:00
+        jcr:mimeType: image/jpeg
+  /terraclime.jpg:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['mix:referenceable']
+    jcr:uuid: 62a6fe34-6f02-4913-88cd-892cfef89e3f
+    /terraclime.jpg:
+      jcr:primaryType: gogreen:imageset
+      hippo:availability: [live, preview]
+      hippogallery:filename: terraclime.jpg
+      /hippogallery:thumbnail:
+        jcr:primaryType: hippogallery:image
+        hippo:filename: terraclime.jpg
+        hippogallery:height: 60
+        hippogallery:width: 60
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/terraclime.jpg/terraclime.jpg/thumbnail/thumbnail.jpg
+        jcr:lastModified: 2022-06-17T12:57:18.374+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:small:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 224
+        hippogallery:width: 224
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/terraclime.jpg/terraclime.jpg/small/small.jpg
+        jcr:lastModified: 2022-06-17T12:57:18.374+02:00
+        jcr:mimeType: image/jpeg
+      /hippogallery:original:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 300
+        hippogallery:width: 300
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/terraclime.jpg/terraclime.jpg/original/original.jpg
+        jcr:lastModified: 2022-06-17T12:57:18.374+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:larguesquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 300
+        hippogallery:width: 300
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/terraclime.jpg/terraclime.jpg/larguesquare/larguesquare.jpg
+        jcr:lastModified: 2022-06-17T12:57:18.374+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:banner:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 250
+        hippogallery:width: 250
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/terraclime.jpg/terraclime.jpg/banner/banner.jpg
+        jcr:lastModified: 2022-06-17T12:57:18.374+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:largue:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 300
+        hippogallery:width: 300
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/terraclime.jpg/terraclime.jpg/largue/largue.jpg
+        jcr:lastModified: 2022-06-17T12:57:18.374+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:mediumsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 300
+        hippogallery:width: 300
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/terraclime.jpg/terraclime.jpg/mediumsquare/mediumsquare.jpg
+        jcr:lastModified: 2022-06-17T12:57:18.374+02:00
+        jcr:mimeType: image/jpeg
+      /gogreen:smallsquare:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 232
+        hippogallery:width: 232
+        jcr:data:
+          type: binary
+          resource: /content/gallery/gogreen/products/terraclime.jpg/terraclime.jpg/smallsquare/smallsquare.jpg
+        jcr:lastModified: 2022-06-17T12:57:18.374+02:00
+        jcr:mimeType: image/jpeg

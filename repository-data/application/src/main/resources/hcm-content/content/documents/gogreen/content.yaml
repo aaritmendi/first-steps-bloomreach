@@ -89,3 +89,191 @@
 
                       </body>
                       </html>
+  /quick-facts:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['hippo:named', 'hippo:versionInfo', 'mix:referenceable']
+    jcr:uuid: b4202e90-7a6a-480c-9fd2-0590d8e665e5
+    hippo:name: Quick Facts
+    hippo:versionHistory: c8961ca6-f448-4051-90a7-163395781844
+    /quick-facts[1]:
+      jcr:primaryType: gogreen:contentdocument
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: 37e4d700-33e2-4d99-9355-c759dfdb2d55
+      gogreen:introduction: ''
+      gogreen:publicationdate: 2022-06-17T11:43:00+02:00
+      gogreen:title: Quick Facts
+      hippo:availability: []
+      hippo:related___pathreference: []
+      hippostd:retainable: false
+      hippostd:state: draft
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2022-06-17T11:42:17.711+02:00
+      hippostdpubwf:lastModificationDate: 2022-06-17T11:43:30.732+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippotranslation:id: aadc3e7f-14e9-4822-9228-5367b9d10466
+      hippotranslation:locale: en
+      /gogreen:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: <p>Faxtrola unpossible you are hearing me talk grandpas
+          little helper uncle ant perspicacity knifey spooney yoink one way passage
+          to the boneyard dodgerock totally outrageous paradigm lord protect this
+          rocket house skittlebrau purple is a fruit capdabbler fatard electromicide
+          jiminy jillikers wiggle puppy bagzooka scalpal fatard everybody get naked
+          microcalifragilistics dumbening flanswered wizard's key dickety-six miles
+          zazz homerhol bonus eruptus don'ter my son is also named bort shinning shinning
+          perspicacity nucleon that's the first thing that's ever gone wrong pasghetti
+          betsy bleedingheart johnny come-not-lies eedily homersexual chocotastic
+          highway 9 bird sanctuary pointy kitty well, that's the end of me there's
+          no need to murmur well, you all know what laughter sounds like. knowledgeum
+          invisible dog leash hot jazz music spiritual de-pantsing successmanship
+          horse with a head of a rabbit and the body of a rabbit rappin' surfer homerhol
+          rastafy baby guts fancy store-bought dirt here's vanessa williams biz-zay
+          ku klux klam underreacting garbagewater uppity box oodily uncle ant retirony
+          diddly</p>
+    /quick-facts[2]:
+      jcr:primaryType: gogreen:contentdocument
+      jcr:mixinTypes: ['mix:referenceable', 'mix:versionable']
+      jcr:uuid: 20debd17-a602-4ba0-a6f6-1f868424927b
+      gogreen:introduction: ''
+      gogreen:publicationdate: 2022-06-17T11:43:00+02:00
+      gogreen:title: Quick Facts
+      hippo:availability: [preview]
+      hippo:related___pathreference: []
+      hippostd:retainable: false
+      hippostd:state: unpublished
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2022-06-17T11:42:17.711+02:00
+      hippostdpubwf:lastModificationDate: 2022-06-17T11:43:34.150+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippotranslation:id: aadc3e7f-14e9-4822-9228-5367b9d10466
+      hippotranslation:locale: en
+      /gogreen:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: <p>Faxtrola unpossible you are hearing me talk grandpas
+          little helper uncle ant perspicacity knifey spooney yoink one way passage
+          to the boneyard dodgerock totally outrageous paradigm lord protect this
+          rocket house skittlebrau purple is a fruit capdabbler fatard electromicide
+          jiminy jillikers wiggle puppy bagzooka scalpal fatard everybody get naked
+          microcalifragilistics dumbening flanswered wizard's key dickety-six miles
+          zazz homerhol bonus eruptus don'ter my son is also named bort shinning shinning
+          perspicacity nucleon that's the first thing that's ever gone wrong pasghetti
+          betsy bleedingheart johnny come-not-lies eedily homersexual chocotastic
+          highway 9 bird sanctuary pointy kitty well, that's the end of me there's
+          no need to murmur well, you all know what laughter sounds like. knowledgeum
+          invisible dog leash hot jazz music spiritual de-pantsing successmanship
+          horse with a head of a rabbit and the body of a rabbit rappin' surfer homerhol
+          rastafy baby guts fancy store-bought dirt here's vanessa williams biz-zay
+          ku klux klam underreacting garbagewater uppity box oodily uncle ant retirony
+          diddly</p>
+    /quick-facts[3]:
+      jcr:primaryType: gogreen:contentdocument
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: 98c7e846-a17c-41f5-913a-5097f31bde80
+      gogreen:introduction: ''
+      gogreen:publicationdate: 2022-06-17T11:43:00+02:00
+      gogreen:title: Quick Facts
+      hippo:availability: [live]
+      hippo:related___pathreference: []
+      hippostd:retainable: false
+      hippostd:state: published
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2022-06-17T11:42:17.711+02:00
+      hippostdpubwf:lastModificationDate: 2022-06-17T11:43:34.150+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippostdpubwf:publicationDate: 2022-06-17T11:45:56.994+02:00
+      hippotranslation:id: aadc3e7f-14e9-4822-9228-5367b9d10466
+      hippotranslation:locale: en
+      /gogreen:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: <p>Faxtrola unpossible you are hearing me talk grandpas
+          little helper uncle ant perspicacity knifey spooney yoink one way passage
+          to the boneyard dodgerock totally outrageous paradigm lord protect this
+          rocket house skittlebrau purple is a fruit capdabbler fatard electromicide
+          jiminy jillikers wiggle puppy bagzooka scalpal fatard everybody get naked
+          microcalifragilistics dumbening flanswered wizard's key dickety-six miles
+          zazz homerhol bonus eruptus don'ter my son is also named bort shinning shinning
+          perspicacity nucleon that's the first thing that's ever gone wrong pasghetti
+          betsy bleedingheart johnny come-not-lies eedily homersexual chocotastic
+          highway 9 bird sanctuary pointy kitty well, that's the end of me there's
+          no need to murmur well, you all know what laughter sounds like. knowledgeum
+          invisible dog leash hot jazz music spiritual de-pantsing successmanship
+          horse with a head of a rabbit and the body of a rabbit rappin' surfer homerhol
+          rastafy baby guts fancy store-bought dirt here's vanessa williams biz-zay
+          ku klux klam underreacting garbagewater uppity box oodily uncle ant retirony
+          diddly</p>
+  /terms--conditions:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['hippo:named', 'hippo:versionInfo', 'mix:referenceable']
+    jcr:uuid: 59eaa167-7591-4b4c-b16f-0d53f31c2840
+    hippo:name: Terms & Conditions
+    hippo:versionHistory: 2b96e135-bc30-486a-82b1-177f2b13ae05
+    /terms--conditions[1]:
+      jcr:primaryType: gogreen:contentdocument
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: 5d46c522-1cd9-4d90-bb1a-a782636ee0d4
+      gogreen:introduction: ''
+      gogreen:publicationdate: 2022-06-17T11:43:00+02:00
+      gogreen:title: Terms & Conditions
+      hippo:availability: []
+      hippo:related___pathreference: []
+      hippostd:retainable: false
+      hippostd:state: draft
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2022-06-17T11:43:55.736+02:00
+      hippostdpubwf:lastModificationDate: 2022-06-17T11:43:55.736+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippotranslation:id: bb02ac0f-49e1-470d-971a-61ad0ac675f7
+      hippotranslation:locale: en
+      /gogreen:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: <p>Fruitcake pastry gummi bears danish chupa chups. Bonbon
+          bonbon cotton candy brownie carrot cake cheesecake pie. Danish lemon drops
+          topping jujubes candy canes biscuit topping. Topping cake bear claw ice
+          cream caramels marshmallow cookie candy canes ice cream.</p>
+    /terms--conditions[2]:
+      jcr:primaryType: gogreen:contentdocument
+      jcr:mixinTypes: ['mix:referenceable', 'mix:versionable']
+      jcr:uuid: 6422a40b-219e-4971-b9f3-5810218553d5
+      gogreen:introduction: ''
+      gogreen:publicationdate: 2022-06-17T11:43:00+02:00
+      gogreen:title: Terms & Conditions
+      hippo:availability: [preview]
+      hippo:related___pathreference: []
+      hippostd:retainable: false
+      hippostd:state: unpublished
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2022-06-17T11:43:55.736+02:00
+      hippostdpubwf:lastModificationDate: 2022-06-17T11:45:37.341+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippotranslation:id: bb02ac0f-49e1-470d-971a-61ad0ac675f7
+      hippotranslation:locale: en
+      /gogreen:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: <p>Fruitcake pastry gummi bears danish chupa chups. Bonbon
+          bonbon cotton candy brownie carrot cake cheesecake pie. Danish lemon drops
+          topping jujubes candy canes biscuit topping. Topping cake bear claw ice
+          cream caramels marshmallow cookie candy canes ice cream.</p>
+    /terms--conditions[3]:
+      jcr:primaryType: gogreen:contentdocument
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: 3b43132a-001d-4a0c-bde8-35080fb741bd
+      gogreen:introduction: ''
+      gogreen:publicationdate: 2022-06-17T11:43:00+02:00
+      gogreen:title: Terms & Conditions
+      hippo:availability: [live]
+      hippo:related___pathreference: []
+      hippostd:retainable: false
+      hippostd:state: published
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2022-06-17T11:43:55.736+02:00
+      hippostdpubwf:lastModificationDate: 2022-06-17T11:45:37.341+02:00
+      hippostdpubwf:lastModifiedBy: admin
+      hippostdpubwf:publicationDate: 2022-06-17T11:45:57.071+02:00
+      hippotranslation:id: bb02ac0f-49e1-470d-971a-61ad0ac675f7
+      hippotranslation:locale: en
+      /gogreen:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: <p>Fruitcake pastry gummi bears danish chupa chups. Bonbon
+          bonbon cotton candy brownie carrot cake cheesecake pie. Danish lemon drops
+          topping jujubes candy canes biscuit topping. Topping cake bear claw ice
+          cream caramels marshmallow cookie candy canes ice cream.</p>
